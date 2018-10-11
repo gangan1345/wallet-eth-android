@@ -66,5 +66,7 @@ public class Test {
 
 
 //        query("0x8c10a04b0ce0414b089efe89e311f75fbf964563");
+
+//        System.out.println(EthUtils.toChecksumAddress("0x8c10a04b0ce0414b089efe89e311f75fbf964563"));
     }
 }
