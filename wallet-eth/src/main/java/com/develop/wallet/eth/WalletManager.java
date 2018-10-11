@@ -48,14 +48,12 @@ public class WalletManager {
     /**
      * 代币合约地址
      */
-//    public static String tokenAddres = "0x047a880b27ca11509c9c1e853fe47229febc57fe";
-    public static String tokenAddres = "0xc4f7fd7c1800c2850e6bab3ee22ef4a7a19d9f50";
+    public static String tokenAddres = "0x047a880b27ca11509c9c1e853fe47229febc57fe";
 
     /**
      * 区块链服务器地址
      */
-//    public static String URL = "http://192.168.1.138";
-    public static String URL = "http://47.107.26.230";
+    public static String URL = "http://192.168.1.138";
 
 
     public static BigInteger GAS_PRICE = BigInteger.valueOf(0x3b9aca00);
